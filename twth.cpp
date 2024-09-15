@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int n =10;
+    int n =11;
     int count = 1;
     while (count<=n)
     {
