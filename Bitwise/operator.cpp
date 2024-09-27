@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int a=4 ,b=8;
+    int r=4 ,n=8;
 
-    cout<<(a&b);
+    cout<<(r&n);
 }
